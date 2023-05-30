@@ -1,2 +1,9 @@
 # FixMyEA
-FixMyEA can Fix your EA(can't open)
+如果你的EA打不開 可以試試我做的 FixMyEA
+他有三種功能
+1.立即修復
+2.重啟RA
+3.強制關閉EA
+旁邊還有非場簡陋的日誌
+
+享受吧!!
